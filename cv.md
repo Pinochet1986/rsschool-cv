@@ -5,12 +5,12 @@ Beginer Frontend Developer!
 * Phone: +375293190021
 * Email: Pinochat@yandex.by
 * GitHub: Pinochet1986
-***
+---
 ## About me:
   I'm 35 years old and I work in a bus flett. And I realized my development had stopped.
   
   That's why I started studying at **RSSchool**!
-  ***
+***
 ## Scills:
 * HTML
 * CSS
@@ -25,6 +25,7 @@ function multiply( a, b) {
 ***
 ## Courses:
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
 ***
 ## Education:
 * Belarusian State Agrarian Technical University
