@@ -12,7 +12,7 @@
     box-sizing: border-box;
   }
   .header {
-    border: 1px solid red;
+    border: 1px solid rgb(0, 204, 255);
   }
   .main {
     border: 1px solid red;
@@ -29,4 +29,15 @@
     padding: 0;
     background-color: #a2f3f3;
   }
-  
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .container-left {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .container-right {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
