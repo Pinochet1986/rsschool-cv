@@ -33,11 +33,48 @@
     max-width: 1440px;
     margin: 0 auto;
   }
-  .container-left {
+  .container1 {
     max-width: 1440px;
     margin: 0 auto;
   }
-  .container-right {
+  .container2 {
     max-width: 1440px;
     margin: 0 auto;
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+  main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0; 
+    padding: 0;
+    background-color: #f3c2a2;
+  }
+  footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0; 
+    padding: 0;
+    background-color: #a2f3f3;
+  }
+  .container3 {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+  }
+  html {
+    scroll-behavior: smooth; 
+  }
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
   }
